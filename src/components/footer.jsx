@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <footer className=" flex bg-cyan-900 w-screen flex-row justify-between gap-2 p-2 text-white">      <div className=''><span className='text-xl  '>
+    <footer className="fixed bottom-0 flex bg-cyan-900 w-screen flex-row justify-between gap-2 p-2 text-white">      <div className=''><span className='text-xl  '>
       <span className='text-green-500'>&lt;</span>
       PassOp
       <span className='text-green-500'>/&gt;</span>

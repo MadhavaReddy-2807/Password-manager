@@ -11,7 +11,7 @@ function App() {
     <>
       <Navbar />
       <Manager/>
-      {/* <Footer/> */}
+      <Footer/>
     </>
   )
 }
